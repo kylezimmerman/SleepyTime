@@ -1,0 +1,13 @@
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\bin\Debug\SleepyTime.exe.config
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\bin\Debug\SleepyTime.exe
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\bin\Debug\SleepyTime.pdb
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\SleepyTime.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\MainWindow.baml
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\MainWindow.g.cs
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\App.g.cs
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\SleepyTime_MarkupCompile.cache
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\SleepyTime.g.resources
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\SleepyTime.Properties.Resources.resources
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\SleepyTime.csproj.GenerateResource.Cache
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\SleepyTime.exe
+C:\Users\Kyle\Desktop\SleepyTime\SleepyTime\obj\Debug\SleepyTime.pdb
